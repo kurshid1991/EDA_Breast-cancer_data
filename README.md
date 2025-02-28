@@ -6,7 +6,7 @@ The code focuses on classifying **benign and malignant** cells based on specific
 ## **Dataset Overview**  
 The dataset originates from research conducted at the **University of Wisconsin**. It contains numerical measurements obtained from **digitized fine-needle aspirate (FNA) images** of breast cell samples.  
 
-📌 **Dataset Link:** [Breast Cancer Data](https://github.com/dataspelunking/MLwR/blob/master/Machine%20Learning%20with%20R%20(2nd%20Ed.)/Chapter%2003/wisc_bc_data.csv)  
+📌 **Dataset Link:** [Breast Cancer Data](https://github.com/kurshid1991/EDA_Breast-cancer_data/blob/main/breastcancerdata.csv)  
 
 ### **Key Details:**  
 - **Total Samples:** 569 biopsy records  
