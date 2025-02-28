@@ -36,5 +36,8 @@ Each sample has measurements capturing the **mean, standard error**, and **worst
 - 🔬 **Classification models** to distinguish benign vs. malignant samples  
 
 ## Next Step:
-visit this link for apllyoing machine learning to predict the cancer subtype.
+### 1. Preprocessing the csv file before applying ML Modelling:
+Visit [This_link](https://github.com/kurshid1991/breastcancer_data_preprocessing) for breastcancer_data pre-processing steps. (manadatory before ML step)
+### 2. Apply machine learning models on the data:
+visit this link for apllying machine learning to predict the cancer subtype.
 **ML Modelling for cancer subtype prediction** [Click_Here](https://github.com/kurshid1991/Breastcancer_ML-modelling)
