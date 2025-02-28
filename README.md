@@ -35,6 +35,6 @@ Each sample has measurements capturing the **mean, standard error**, and **worst
 - 📉 **Visualizations** for cell attributes and correlations  
 - 🔬 **Classification models** to distinguish benign vs. malignant samples  
 
----
-
-Would you like any modifications or additional sections (e.g., methodology, tools used)? 🚀  
+## Next Step:
+visit this link for apllyoing machine learning to predict the cancer subtype.
+**ML Modelling for cancer subtype prediction** [Click_Here](https://github.com/kurshid1991/Breastcancer_ML-modelling)
